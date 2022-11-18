@@ -1,6 +1,13 @@
-<center>
+<div align="center">
+
 <br>
-👨‍💻 아주대학교 소프트웨어학과 김지훈
+👨‍💻 아주대학교 소프트웨어학과
+<br>
+<br>
+안녕하세요, 백엔드 개발자를 꿈꾸는 김지훈입니다.
+
+<br>
+<br>
 <br>
 
 
@@ -31,6 +38,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 </br>
 
-</center>
+</div>
 
 
